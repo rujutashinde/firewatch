@@ -12,7 +12,7 @@ metadata:
   namespace: quality-community
   annotations:
     github.com/project-slug: CSPI-QE/firewatch
-    backstage.io/techdocs-ref: dir: .
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   owner: group: redhat/cspi-qe
