@@ -15,5 +15,5 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: library
-  owner: group: redhat/cspi-qe
+  owner: group:redhat/cspi-qe
   lifecycle: production
